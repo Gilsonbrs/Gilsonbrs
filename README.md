@@ -1,61 +1,64 @@
-# Olá! Eu sou Gilson Rodrigues
+👋 Olá! Eu sou Gilson Rodrigues
+Sou Analista de Testes (QA) em transição de carreira, com experiência em testes manuais e automatizados, além de conhecimento em metodologias ágeis (Scrum, Kanban). Tenho habilidades na modelagem, planejamento e execução de casos de teste, gerenciamento de defeitos e registro de evidências. Busco oportunidades para consolidar minha carreira em Qualidade de Software, contribuindo para a entrega de soluções eficientes e de alta qualidade.
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma** na Fatec e estou em transição de carreira para a área de **Qualidade de Software (QA)**. Meu objetivo é contribuir com soluções de alta qualidade, enfrentando desafios técnicos e entregando resultados consistentes. Estou em busca de oportunidades que me permitam aplicar e expandir meus conhecimentos na área de **Tecnologia da Informação** e **testes de software**.
+⭐ Sobre Mim
+Conhecimentos Técnicos
+Linguagens de Programação: Java, Python, JavaScript, SQL, HTML, CSS
+Testes de Software: Testes Manuais, Testes Automatizados, Testes de API, Testes Funcionais, BDD
+Ferramentas de Teste: Selenium, Robot Framework, Postman, JUnit
+Banco de Dados: MySQL (Administração e Engenharia), PHPMyAdmin
+Metodologias Ágeis: Scrum, Kanban
+Outros: Power BI, Pacote Office (Excel, Word, PowerPoint)
 
----
+🎯 Objetivos
+Curto prazo: Atuar como QA, aprimorando habilidades em testes manuais e automatizados.
+Médio prazo: Me especializar em QA Mobile, com foco em iOS.
+Longo prazo: Evoluir para Engenheiro de Software ou Product Owner (PO)
+💼 Experiência Profissional
+T4S Tecnologia (Março/2024 – Atual)
+Auxiliar Administrativo – Foco em QA
 
-## ⭐ **Sobre Mim**
+Suporte administrativo e organização de processos na área de TI.
+Realização de testes funcionais e de usabilidade em sistemas e aplicativos.
+Apoio na documentação de casos de teste e relatórios de bugs.
+Gerenciamento de inventário e suporte na coordenação de projetos de TI.
+E. Tech Mentoria (Home Office) (Novembro/2023 – Março/2024)
+Analista de Qualidade Jr
 
-### **Conhecimentos Técnicos**
-- Linguagens e Ferramentas: HTML, CSS, JavaScript, Python, PHP.
-- Testes de Software: Selenium, Robot Framework, JUnit.
-- Bancos de Dados: MySQL, MongoDB, PHPMyAdmin.
-- Visualização de Dados: Power BI, Excel Avançado.
-- Automção e Testes de Qualidade: Testes manuais e automatizados.
-- Ferramentas Adicionais: Pacote Office, OpenCV (básico a intermediário).
+Criação de MRR (Matriz de Rastreabilidade de Requisitos).
+Planejamento e execução de testes.
+Desenvolvimento de cenários de teste em Gherkin e casos de teste Step-by-Step.
+Gerenciamento de tarefas utilizando Trello.
+Automação de testes com JUnit, Java, BDD e Selenium.
 
----
+🎓 Formação Acadêmica e Certificações
+Formação Acadêmica
+Bacharelado em Desenvolvimento de Software Multiplataforma – Fatec Cotia (Conclusão em 2026)
 
-## 🌐 **Objetivos**
-- **Curto prazo**: Atuar como QA (Quality Assurance), desenvolvendo habilidades em testes manuais e automatizados.
-- **Médio prazo**: Me especializar como QA Mobile, com foco em iOS.
-- **Longo prazo**: Crescer como engenheiro de software ou Product Owner (PO).
+Certificações e Cursos (2024 - 2025)
+Prática em Teste de Software – E.tech
+Teste de Software e Teste Web – Iterasy
+BDD: Behavior-Driven Development – Udemy
+Fundamentos do Postman – Udemy
+Princípios e Fundamentos do Teste de Software – Udemy
+Robot Framework Discover – Udemy
+Metodologias Ágeis – E.tech
+Introdução à Linguagem Java – E.tech
+Lógica de Programação – E.tech
+Big Data & Analytics – FIAP
 
----
+🔬 Projetos de QA e Desenvolvimento
+🏦 MiniBanco.java
+Um projeto em Java que simula operações bancárias básicas, como criação de contas, depósitos, saques e consultas de saldo. Desenvolvido com Programação Orientada a Objetos (POO), o objetivo é aprimorar o uso de Java em aplicações financeiras.
 
-## 💼 **Experiência Profissional**
+🐶 Dog Walker Signup Test
+Projeto de automação de testes utilizando Selenium, Robot Framework e JUnit, validando funcionalidades de cadastro, autenticação e experiência do usuário.
 
-### **T4S Tecnologia**
-**Auxiliar Administrativo** ATUALMENTE
-- Apoio à equipe técnica em **testes de software** e automação de processos.
-- Gerenciamento de **inventário de TI** e controle de recursos.
-- Organização e documentação de processos internos.
-
-### **Tranter Indústria**
-**Auxiliar de Manutenção** *(01/2023 – 11/2023)*
-- Manutenção de equipamentos e assistência técnica.
-- Experiência em **serviços offshore** e manutenção preventiva.
-
----
-
-## 🎓 **Formação Acadêmica e Certificações**
-
-### **Formação Acadêmica**
-- **Desenvolvimento de Software Multiplataforma** – Fatec São Paulo *(em andamento)*
-
-### **Certificações e Cursos Adicionais**
-- **Big Data & Analytics** – FIAP.
-- **Prática em Teste de Software** – FIAP.
-- **Introdução ao Banco de Dados** – MySQL e PHPMyAdmin.
-- **Introdução ao Sistema Operacional Linux**.
-- **AWS para Iniciantes** – Estudos complementares em soluções na nuvem.
-- **Power BI** – Visualização de Dados e Business Intelligence.
-- **Excel Avançado**.
-
----
-
-## 📞 **Contato**
-- **E-mail**: gilson_rodrigues.silva@hotmail.com
-- **LinkedIn**:https:[//www.linkedin.com/in/gilson-r-a3018424a/]
-- **GitHub**: [github.com/Gilsonbrs](https://github.com/Gilsonbrs)
+🗣️ Idiomas
+Inglês Básico (em andamento)
+📞 Contato
+📧 E-mail: gilson_rodrigues.silva@hotmail.com
+📱 Telefone: (11) 99289-9754
+🔗 LinkedIn: linkedin.com/in/gilson-r-a3018424a
+💻 GitHub: github.com/Gilsonbrs
 
