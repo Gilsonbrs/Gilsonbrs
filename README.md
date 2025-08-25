@@ -13,7 +13,7 @@ Sou um profissional apaixonado por Qualidade de Software (QA), desenvolvimento e
 ## 📈 Projetos em destaque
 Confira alguns dos meus projetos que ilustram meu conhecimento e experiência:
 
-- [banco-web-tests](https://github.com/Gilsonbrs/banco-web-tests) - Automatização de testes para o aplicativo web bancário
+- [banco-web-tests](https://github.com/Gilsonbrs/banco-web-tests) - Automatização de testes para o aplicativo web bancário com cypress
 - [banco-api-performance](https://github.com/Gilsonbrs/banco-api-performance) - Testes de performance da API com K6
 - [banco-api-tests](https://github.com/Gilsonbrs/banco-api-tests) - API REST com testes automatizados em JavaScript
 - [Dog-walker-signup-test](https://github.com/Gilsonbrs/Dog-walker-signup-test) - Automação de cadastro para aplicação fictícia
