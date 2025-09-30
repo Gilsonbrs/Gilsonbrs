@@ -21,7 +21,7 @@ Confira alguns dos meus projetos que ilustram meu conhecimento e experiência:
 
 ## 📫 Como me encontrar
 - LinkedIn: [linkedin.com/in/gilson-rodrigues](https://www.linkedin.com/in/gilson-rodrigues)
-- E-mail: gilson_rodrigues.silva@hotmail.com
+- E-mail: gilsonrbk@hotmail.com
 
 ---
 
