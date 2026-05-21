@@ -16,7 +16,7 @@ Apaixonado por qualidade de software e aprendizado contínuo. Combino visão té
 
 ###  Projeto em Destaque
 
-> **[Forja de Heróis](https://github.com/Gilsonbrs/Forja-de-Herois)**
+> **[Forja de Heróis](https://github.com/Gilsonbrs/Forja-de-Herois-)**
 >
 > Um sistema desenvolvido para explorar e desafiar automações de QA, combinando lógica de desenvolvimento com cobertura de testes abrangente.
 >
@@ -57,11 +57,11 @@ Apaixonado por qualidade de software e aprendizado contínuo. Combino visão té
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [ Forja de Heróis](https://github.com/Gilsonbrs/Forja-de-Herois) | Sistema desenvolvido para desafiar automações de QA | Java · JUnit · Selenium |
+| [ Forja de Heróis](https://github.com/Gilsonbrs/Forja-de-Herois-) | Sistema desenvolvido para desafiar automações de QA | JavaScript · JUnit ·  |
 | [ banco-web-tests](https://github.com/Gilsonbrs/banco-web-tests) | Automação de testes para aplicativo web bancário | Cypress · JavaScript |
 | [ banco-api-performance](https://github.com/Gilsonbrs/banco-api-performance) | Testes de desempenho e carga da API bancária | K6 · JavaScript |
 | [ banco-api-tests](https://github.com/Gilsonbrs/banco-api-tests) | API REST com testes automatizados | JavaScript · Postman |
-| [ Dog-walker-signup-test](https://github.com/Gilsonbrs/Dog-walker-signup-test) | Automação de cadastro para aplicação fictícia | Cypress · JavaScript |
+| [ Dog-walker-signup-test](https://github.com/Gilsonbrs/Dog-walker-signup-test) | Automação de cadastro para aplicação fictícia | Robot framework · JavaScript |
 
 ---
 
