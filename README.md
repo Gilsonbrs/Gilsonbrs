@@ -9,9 +9,6 @@ Apaixonado por qualidade de software e aprendizado contínuo. Combino visão té
 - **Stack:** Java, JavaScript, Python, SQL + Cypress, Selenium, JUnit e Postman
 - **Metodologias:** Scrum & Kanban
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gilsonbrs&icon_color=F8ECD1&text_color=F8ECD1&title_color=F8ECD1&bg_color=30,009179,083358&border_radius=20&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gilsonbrs&layout=compact&langs_count=7&text_color=F8ECD1&title_color=F8ECD1&bg_color=30,009179,083358&border_radius=20)
-
 ---
 
 ###  Projeto em Destaque
@@ -72,4 +69,4 @@ Apaixonado por qualidade de software e aprendizado contínuo. Combino visão té
 
 ---
 
-*Tem um projeto interessante ou quer trocar uma ideia sobre qualidade de software? Fique à vontade para entrar em contato!* 
+*Tem um projeto interessante ou quer trocar uma ideia sobre qualidade de software? Fique à vontade para entrar em contato!*
